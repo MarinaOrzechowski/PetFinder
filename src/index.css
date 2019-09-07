@@ -25,11 +25,17 @@ h1 {
   top: 25%;
   left: 37%;
   transform: translate(-30%, -50%);
-  padding: 4% 5% 4% 5%;
+  padding: 1% 5% 4% 5%;
 }
 .description {
   font-size: 3vh;
   display: flex;
   justify-content: center;
   margin: 5vh 10vh 5vh 10vh; 
+}
+.row {
+  background-color: antiquewhite;
+  text-align: center;
+  
+
 }
