@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+h1 {
+  position: absolute;
+  font-family: 'Modak', cursive;
+  font-size: 20vh;
+  color: brown;
+  top: 25%;
+  left: 37%;
+  transform: translate(-30%, -50%);
+  padding: 4% 5% 4% 5%;
+}
+.description {
+  font-size: 3vh;
+  display: flex;
+  justify-content: center;
+  margin: 5vh 10vh 5vh 10vh; 
+}
