@@ -1,3 +1,5 @@
+This project is not completed. In order to use one of the APIs, the key has to be renewed every hour.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
